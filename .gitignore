@@ -1,0 +1,4 @@
+.venv/
+hasil_*/
+__pycache__/
+*.pyc
